@@ -1,0 +1,7 @@
+USER_NAME       = "Jeevan"
+ASSISTANT_NAME  = "Aria"
+OLLAMA_MODEL    = "mistral"
+TTS_VOICE       = "en-US-AriaNeural"
+WAKE_WORD       = "aria"
+MEMORY_DIR      = "F:\\Aria\\memory"
+ARIA_DIR        = "F:\\Aria"
